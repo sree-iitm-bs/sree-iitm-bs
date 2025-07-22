@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sree S</h1>
+<h1 align="center">Hi I'm Sree S</h1>
 <h3 align="center">studying ece and data science</h3>
 
-- 📫 How to reach me **ec23b1041@iiitdm.ac.in**
+- How to reach me **ec23b1041@iiitdm.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
